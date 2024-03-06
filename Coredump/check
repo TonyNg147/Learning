@@ -1,0 +1,5 @@
+total 24
+-rw-rw-r-- 1 as as     0 12月  9 23:52 check
+-rw-rw-r-- 1 as as  2120 12月  9 22:14 gdb.log
+-rwxrwxr-x 1 as as 14472 12月  9 22:03 main
+-rw-rw-r-- 1 as as    78 12月  9 22:00 main.cpp

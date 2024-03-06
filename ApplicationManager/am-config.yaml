@@ -1,0 +1,21 @@
+formatVersion: 1
+formatType: am-configuration
+---
+applications:
+  builtinAppsManifestDir: ${CONFIG_PWD}/apps
+
+logging:
+  rules:
+    - "*=false"
+    - "qt.*=false"
+    - "am.*=false"
+    - "qml*=true"
+    - "*.warning=true"
+    - "*.critical=true"
+
+ui:
+  fullscreen: no
+
+flags:
+  noSecurity: yes
+  noUiWatchdog: yes

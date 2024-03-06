@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "signal.h": "c",
+        "thread": "cpp"
+    }
+}

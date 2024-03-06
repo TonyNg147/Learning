@@ -1,0 +1,7 @@
+check_root()
+{
+    if [[ $EUID -eq 0 ]]; then
+        echo "Not the root user"
+        exit 1
+    fi
+}

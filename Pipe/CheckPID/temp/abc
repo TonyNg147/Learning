@@ -1,0 +1,11 @@
+class A
+{
+    public:
+        virtual void printa() = 0;
+};
+
+class B: public A
+{
+    public:
+        v
+};
